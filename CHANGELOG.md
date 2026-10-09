@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.2.10 — 2026-10-09
+
+Version 0.2.9 → 0.2.10.
+
+- Add general to-do lists for tasks that belong to no project (administration,
+  teaching, personal). A new Lists page after Projects creates, renames, archives, and
+  restores lists and edits their tasks. Lists are stored in the shared data folder, so
+  they appear on every computer that shares it.
+- Show list task deadlines alongside project deadlines on Home; double-click a row to
+  open its list.
+- Show general lists under a "Lists" heading on the phone task page, editable the same
+  way as project tasks.
+
 ## 0.2.9 — 2026-10-09
 
 Version 0.2.8 → 0.2.9.
