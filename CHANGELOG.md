@@ -1,5 +1,29 @@
 # Changelog
 
+## 0.2.8 — 2026-10-09
+
+Version 0.2.7 → 0.2.8.
+
+- Add initial tasks configuration to tasks.yaml
+- Fix worker-thread double delete and hang on quit
+- Pass Pandoc a local copy of the CSL style
+- Refresh STATUS.md after merges and skip Windows-only tests off Windows
+- Reorganize repository into folders and add direct installer link
+- Add Zotero integration and enhance Word citation handling
+- Implement background loading for library and project references
+- feat: implement Zotero attachment migration plan and UI integration
+- docs: record UGOS setup for phone tasks (ADR-013 step 7)
+- feat: add phone task HTTP server (ADR-013 step 3)
+- feat: add phone task page (ADR-013 step 4)
+- feat: add NAS container files and setup guide for phone tasks (ADR-013 steps 5-6)
+- docs: fix the phone task server contract before parallel work
+- feat: add Qt-free task service for phone editing (ADR-013 step 2)
+- docs: record that offline phone editing is not needed
+- docs: propose phone task editing via NAS web server (ADR-013)
+- feat: Update project metadata and structure in project.yaml
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.2.7 — 2026-10-08
 
 Version 0.2.5 → 0.2.7.
