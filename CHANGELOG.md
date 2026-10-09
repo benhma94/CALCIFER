@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.2.9 — 2026-10-09
+
+Version 0.2.8 → 0.2.9.
+
+- Add coauthor management features: merge details across projects and suggest previous coauthors
+- Optimize project opening speed by reusing ProjectDetailView and enhancing task editor initialization
+- Update project name and description across documentation and code
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.2.8 — 2026-10-09
 
 Version 0.2.7 → 0.2.8.
