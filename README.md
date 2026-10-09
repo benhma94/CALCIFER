@@ -1,5 +1,8 @@
 # CALCIFER
 
+**[⬇ Download CALCIFER for Windows (Calcifer.Desktop-win-x64-Setup.exe)](../../releases/latest/download/Calcifer.Desktop-win-x64-Setup.exe)**
+— run it and you're done. No administrator rights needed.
+
 CALCIFER is a local-first project and research workspace for Windows. It keeps
 projects, tasks, notes, references, citations, Word integration, and writing checks
 in one desktop app. Your data stays on your machine.
@@ -15,8 +18,9 @@ in one desktop app. Your data stays on your machine.
 
 ## Download and install
 
-1. Open the [latest release](../../releases/latest) and download
-   `Calcifer.Desktop-win-x64-Setup.exe`.
+1. Download [`Calcifer.Desktop-win-x64-Setup.exe`](../../releases/latest/download/Calcifer.Desktop-win-x64-Setup.exe)
+   (always the newest version; older versions and checksums are on the
+   [releases page](../../releases)).
 2. Run it. CALCIFER installs for your Windows user only, with no administrator rights
    needed.
 3. Later updates come through **Settings → Check for updates**. CALCIFER never
