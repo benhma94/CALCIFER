@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.2.11 — 2026-10-10
+
+Version 0.2.10 → 0.2.11.
+
+- Rename Home's "Upcoming deadlines" to "Outstanding tasks" and include open tasks
+  without a due date, listed after dated tasks.
+- Add a "Sort by" selector to the Home task table: due date or priority.
+- Simplify task statuses to In progress, Deferred, Done, and Cancelled. New and
+  reopened tasks start as In progress. Existing Backlog and Next tasks load as In
+  progress and Blocked tasks as Deferred; files are updated on the next save.
+- Suggest stages that match the project's type; changing the type refreshes the
+  list, and a saved stage that is not in the list is kept.
+- Task tables: remove the Order column (Move up/down remain) and rename "Note" to
+  "Linked note".
+
 ## 0.2.10 — 2026-10-09
 
 Version 0.2.9 → 0.2.10.
