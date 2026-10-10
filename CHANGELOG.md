@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.2.11 — 2026-10-10
+
+Version 0.2.10 → 0.2.11.
+
+- Update task status to 'done' and add completion timestamp for centralized architecture task
+- Refactor task statuses and update related components to use 'in_progress' as default; introduce stage handling by project type
+- Add priority sorting to upcoming deadlines in the home view
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.2.10 — 2026-10-09
 
 Version 0.2.9 → 0.2.10.
