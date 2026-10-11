@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.2.12 — 2026-10-11
+
+Version 0.2.11 → 0.2.12.
+
+- Enhance task navigation: implement double-click functionality for tasks and owners, save pending edits, and update UI behavior
+- Enhance task editor synchronization: update status handling, improve autosave behavior, and refine UI elements
+- Implement task autosave feature and update UI components for clarity
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.2.11 — 2026-10-10
 
 Version 0.2.10 → 0.2.11.
