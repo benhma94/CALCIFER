@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.2.13 — 2026-10-16
+
+Version 0.2.12 → 0.2.13.
+
+- Faster startup: the window no longer waits for a full reference-library scan, and the
+  Library page reads reference files in parallel.
+- Only one CALCIFER window runs per data folder; launching again brings the open
+  window to the front.
+- Project and list task views share a filter bar: filter by title, category, and
+  status, and sort tasks.
+- The home page's open-task count includes tasks from non-archived lists.
+
 ## 0.2.12 — 2026-10-11
 
 Version 0.2.11 → 0.2.12.
