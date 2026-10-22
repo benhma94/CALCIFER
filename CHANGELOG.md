@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.14 — 2026-10-22
+
+Version 0.2.13 → 0.2.14.
+
+- Project pages no longer show the empty Activity tab.
+
 ## 0.2.13 — 2026-10-16
 
 Version 0.2.12 → 0.2.13.
