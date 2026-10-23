@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.3.0 — 2026-10-23
+
+Version 0.2.14 → 0.3.0.
+
+- A refreshed look: flatter tables, clearer buttons, and coloured labels for task and
+  project status and priority. The app follows the Windows light or dark setting,
+  including the title bar.
+- The sidebar shows the CALCIFER flame and name at the top. Home opens with counts of
+  active projects, open tasks, overdue tasks, and tasks due this week, and overdue
+  dates are shown in red.
+- Settings has a single heading above its Updates and Workspace tabs.
+- On a project's Tasks tab and on the Lists page, **New** sits beside the filters,
+  task buttons stay disabled until a task is selected, and Ctrl+Up / Ctrl+Down move
+  the selected task.
+
 ## 0.2.14 — 2026-10-22
 
 Version 0.2.13 → 0.2.14.
