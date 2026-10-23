@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.4.0 — 2026-10-23
+
+Version 0.3.0 → 0.4.0.
+
+- A CALCIFER tab in Word. Choose **Install Word add-in** at the bottom of CALCIFER's
+  Word page, then restart Word.
+- A quick citation bar: choose **Add/Edit Citation** on the Word tab or press
+  Ctrl+Alt+Shift+F11 in Word, type to find references, and press Enter to insert the
+  citation at the cursor.
+- Settings > Appearance: choose System, Light or Dark, and an accent colour (flame
+  orange, blue, green, teal, purple or rose). Changes apply at once and are remembered
+  on each computer.
+- On a project's Overview, Description and Coauthors are separated by a divider you
+  can drag to give either more room.
+- On a project's References tab, **Add from library** lists matches as you type
+  instead of showing the whole library.
+
 ## 0.3.0 — 2026-10-23
 
 Version 0.2.14 → 0.3.0.
