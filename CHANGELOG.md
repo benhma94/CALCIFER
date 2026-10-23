@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.4.1 — 2026-10-23
+
+Version 0.4.0 → 0.4.1.
+
+- Double-click a column header to sort: on a project's Tasks tab (task, status,
+  priority, category or due date) and in both Home tables (outstanding tasks and active
+  projects). On tables with a **Sort by** selector, the selector follows along. Tasks
+  can now also be sorted by category.
+- The due-date picker shows every day number again, and its month/year header now
+  matches the rest of the app.
+- Sidebar navigation items are slightly larger and easier to read.
+
 ## 0.4.0 — 2026-10-23
 
 Version 0.3.0 → 0.4.0.
