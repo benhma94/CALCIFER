@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.4.2 — 2026-10-24
+
+Version 0.4.1 → 0.4.2.
+
+- Document the Word add-in page and record ADR-017
+- Merge Word and Writing pages into one Word add-in page
+- Record approved decisions for the Word add-in page merge
+- Plan merging Word and Writing pages into one Word page
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.4.1 — 2026-10-23
 
 Version 0.4.0 → 0.4.1.
