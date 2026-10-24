@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.4.4 — 2026-10-24
+
+Version 0.4.3 → 0.4.4.
+
+- Project Overview scrolls when the window is short, so the Coauthors table stays readable instead of being squeezed.
+- "Short name" is now "Paper Title" and appears only on research projects. Existing values are kept.
+- The phone task list shows each project's full name.
+- Settings > Workspace is renamed Locations; the summary row is gone and the fields have tooltips.
+
 ## 0.4.3 — 2026-10-24
 
 Version 0.4.2 → 0.4.3.
