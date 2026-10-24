@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.4.4 — 2026-10-24
+
+Version 0.4.3 → 0.4.4.
+
+- Note summary-row removal in the Locations plan decisions
+- Rename Settings > Workspace to Locations and drop the summary row
+- Replace unused workspace name with a read-only summary and add tooltips
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.4.3 — 2026-10-24
 
 Version 0.4.2 → 0.4.3.
