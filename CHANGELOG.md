@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.4.3 — 2026-10-24
+
+Version 0.4.2 → 0.4.3.
+
+- Implement Word writing task pane with loopback HTTPS server (ADR-018)
+- feat: Implement Word writing checks in an Office.js task pane
+- feat: add support for narrative citations in CALCIFER
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.4.2 — 2026-10-24
 
 Version 0.4.1 → 0.4.2.
