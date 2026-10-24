@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.4.5 — 2026-10-24
+
+Version 0.4.4 → 0.4.5.
+
+- Task status filter: checkboxes for used statuses, Done hidden by default
+- Update project stage to maintenance and refresh updated_at timestamp
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.4.4 — 2026-10-24
 
 Version 0.4.3 → 0.4.4.
