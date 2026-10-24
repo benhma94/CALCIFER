@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.4.6 — 2026-10-24
+
+Version 0.4.5 → 0.4.6.
+
+- Ship a pinned Pandoc 3.12.1 with the Windows release
+- Use the newest Pandoc found and warn when it renders Chicago slowly
+- Drop redundant mobile tests
+- Halve test-suite runtime by removing idle waits and repeat Chicago renders
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.4.5 — 2026-10-24
 
 Version 0.4.4 → 0.4.5.
