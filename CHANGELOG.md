@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.4.7 — 2026-10-27
+
+Version 0.4.6 → 0.4.7.
+
+- Move tasks between projects and lists
+- Settings: start CALCIFER at Windows sign-in and keep it running in the system tray when the window is closed
+
 ## 0.4.6 — 2026-10-24
 
 Version 0.4.5 → 0.4.6.
