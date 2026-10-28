@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.8 — 2026-10-28
+
+Version 0.4.7 → 0.4.8.
+
+- Word citations: stop repeated "reload the document" errors after switching to another Word document or reopening one
+
 ## 0.4.7 — 2026-10-27
 
 Version 0.4.6 → 0.4.7.
