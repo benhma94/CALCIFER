@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.4.9 — 2026-10-28
+
+Version 0.4.8 → 0.4.9.
+
+- Wrap task and list button rows so narrow windows do not clip button text
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.4.8 — 2026-10-28
 
 Version 0.4.7 → 0.4.8.
