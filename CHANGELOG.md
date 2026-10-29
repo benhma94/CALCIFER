@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.5.0 — 2026-10-29
+
+Version 0.4.9 → 0.5.0.
+
+- Add calendar view for outstanding tasks on Home page
+- Refactor test suite for improved performance and readability
+- Enhance notes tab with resizable boxes and improved layout management
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.4.9 — 2026-10-28
 
 Version 0.4.8 → 0.4.9.
