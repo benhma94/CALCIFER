@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.1 — 2026-11-02
+
+Version 0.5.0 → 0.5.1.
+
+- Implement autosave feature for notes and update UI components accordingly
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.5.0 — 2026-10-29
 
 Version 0.4.9 → 0.5.0.
