@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.5.2 — 2026-11-05
+
+Version 0.5.1 → 0.5.2.
+
+- Fix default priority for new tasks and adjust banner visibility in TaskEditor
+
+Drafted from commit messages by the publish workflow.
+
 ## 0.5.1 — 2026-11-02
 
 Version 0.5.0 → 0.5.1.
